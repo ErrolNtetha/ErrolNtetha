@@ -1,4 +1,5 @@
-### Hi there 👋
+### About
+Hello there, Errol here, learning ReactJS.
 
 <!--
 **ErrolNtetha/ErrolNtetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
