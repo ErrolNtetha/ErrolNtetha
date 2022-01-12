@@ -22,7 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=errolntetha&show_icons=true&locale=en&layout=compact" alt="errolntetha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=errolntetha&show_icons=true&locale=en" alt="errolntetha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errolntetha&" alt="errolntetha" /></p>
 
