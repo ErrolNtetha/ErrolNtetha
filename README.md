@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on any ReactJS project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything around Web Development
-- 📫 How to reach me: <a href="https://twitter.com/errolrsa_" target="blank"> @errolrsa_ </a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/errolrsa" target="blank"> LinkedIn </a>
 
 
 <!-- <h3 align="left">Connect with me:</h3>
