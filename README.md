@@ -10,12 +10,18 @@
 
 <p align="left"> <a href="https://twitter.com/errolrsa_" target="blank"><img src="https://img.shields.io/twitter/follow/errolrsa_?logo=twitter&style=for-the-badge" alt="errolrsa_" /></a> </p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on freelance website.
+- 🌱 I’m currently learning ReactJS & TypeScript
 - 👯 I’m looking to collaborate on any ReactJS project.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with NextJS.
 - 💬 Ask me about anything around Web Development
 - 📫 How to reach me: <a href="www.linkedin.com/in/errolrsa" target="blank"> LinkedIn </a>
+
+### Who i am?
+A proudly and extreme introvert, self-taught Software Engineer pursuing a Diploma in Business Administration. Goal driven, highly motivated, curious, and love to know why and how things work. Possess a great enthusiast in business, able to come up with new innovative ideas. People say I often dream too big, I say they think too small.
+
+### What motivated me into coding?
+Ever since i was young to this day, I have been the go-to guy for everyone when they have problems with their phones, TV, computer etc. I have been known to have the ability to troubleshoot any technical problem and most of the time i was able to fix faults on those devices. This, at first, got me interested into coding with the hope of solving more complex problems and becoming an Embedded Software Engineer, then had to explore other fields and found Web Development to be much more interesting and stuck with it.
 
 
 <!-- <h3 align="left">Connect with me:</h3>
