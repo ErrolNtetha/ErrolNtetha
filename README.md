@@ -13,9 +13,10 @@
 - 🔭 I’m currently working on an ambitious project, <a href="https://tedcrunch.vercel.app" target="blank"> Tedcrunch</a>.
 - 🌱 I’m currently learning mobile development using React Native.
 - 👯 I’m looking to collaborate on any React.js or Next.js project.
-- <!-- 🤔 I’m looking for help with NextJS. -->
 - 💬 Ask me about anything around Web Development
 - 📫 How to reach me: <a href="www.linkedin.com/in/errolrsa" target="blank"> LinkedIn </a>
+
+<!-- 🤔 I’m looking for help with NextJS. -->
 
 ### Who i am?
 A proudly and extreme introvert, self-taught Software Engineer pursuing a Diploma in Business Administration. Goal driven, highly motivated, curious, and love to know why and how things work. Possess a great enthusiast in business, able to come up with new innovative ideas. People say I often dream too big, I say they think too small.
