@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/errolrsa_" target="blank"><img src="https://img.shields.io/twitter/follow/errolrsa_?logo=twitter&style=for-the-badge" alt="errolrsa_" /></a> </p> -->
 
 - 🔭 I’m currently working on an ambitious project, <a href="https://tedcrunch.co.za" target="blank"> Tedcrunch</a>.
-- 🌱 I’m currently learning mobile development using React Native.
+- 🌱 I’m currently learning mobile development ReactNative.
 - 👯 I’m looking to collaborate on any React.js or Next.js project.
 - 💬 Ask me about anything around Web Development
 - 📫 How to reach me: <a href="www.linkedin.com/in/errolrsa" target="blank"> LinkedIn </a>
